@@ -2,6 +2,11 @@
 - Dataset: course_data_clean.csv
 - Self-adjusted version word2vec model: word2vec2.model
 - CNN.ipynb：
-   - Baseline model - CNN
+   - CNN with default word embedding
    - Train with Customize Word2Vec
    - Train with GloVe pre-trained Word2Vec
+- LSTM.ipynb:
+   - LSTM with default word embedding
+- LSTM(word2vec)final.ipynb:
+   - Train with Customize Word2Vec
+   - Train with GoogleNews
