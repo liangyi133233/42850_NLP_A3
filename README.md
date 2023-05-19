@@ -9,4 +9,4 @@
    - LSTM with default word embedding
 - LSTM(word2vec)final.ipynb:
    - Train with Customize Word2Vec
-   - Train with GoogleNews
+   - Train with GoogleNews pre-trained Word2Vec
